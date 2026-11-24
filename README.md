@@ -3,7 +3,7 @@
 A two-wheeled robot that balances itself upright using an Arduino, an MPU-6050 IMU and a PID controller running at 200 Hz. I designed the chassis in SolidWorks and 3D printed it. The firmware can be tuned live over serial, and its settings are saved between power cycles.
 
 <p align="center">
-  <img src="Media/balancingVideo.mov" alt="Robot balancing" width="420">
+  <img src="Media/balancing.gif" alt="Robot balancing" width="420">
 </p>
 
 <p align="center">
